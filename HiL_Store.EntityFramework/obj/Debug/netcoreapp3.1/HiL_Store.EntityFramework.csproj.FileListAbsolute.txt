@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\bin\Debug\netcoreapp3.1\HiL_Store.EntityFramework.deps.json
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\bin\Debug\netcoreapp3.1\HiL_Store.EntityFramework.runtimeconfig.json
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\bin\Debug\netcoreapp3.1\HiL_Store.EntityFramework.runtimeconfig.dev.json
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\bin\Debug\netcoreapp3.1\HiL_Store.EntityFramework.dll
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\bin\Debug\netcoreapp3.1\HiL_Store.EntityFramework.pdb
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\bin\Debug\netcoreapp3.1\HiL_Store.Domain.dll
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\bin\Debug\netcoreapp3.1\HiL_Store.Domain.pdb
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\obj\Debug\netcoreapp3.1\HiL_Store.EntityFramework.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\obj\Debug\netcoreapp3.1\HiL_Store.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\obj\Debug\netcoreapp3.1\HiL_Store.EntityFramework.AssemblyInfo.cs
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\obj\Debug\netcoreapp3.1\HiL_Store.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\obj\Debug\netcoreapp3.1\HiL_Store.EntityFramework.csproj.CopyComplete
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\obj\Debug\netcoreapp3.1\HiL_Store.EntityFramework.dll
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\obj\Debug\netcoreapp3.1\HiL_Store.EntityFramework.pdb
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.EntityFramework\obj\Debug\netcoreapp3.1\HiL_Store.EntityFramework.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.Domain\bin\Debug\netcoreapp3.1\HiL_Store.Domain.deps.json
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.Domain\bin\Debug\netcoreapp3.1\HiL_Store.Domain.dll
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.Domain\bin\Debug\netcoreapp3.1\HiL_Store.Domain.pdb
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.Domain\obj\Debug\netcoreapp3.1\HiL_Store.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.Domain\obj\Debug\netcoreapp3.1\HiL_Store.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.Domain\obj\Debug\netcoreapp3.1\HiL_Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.Domain\obj\Debug\netcoreapp3.1\HiL_Store.Domain.dll
+C:\Users\User\Desktop\HiL_TRPZ_Quiz-master\HiL_TRPZ_Quiz-master\HiL_Store.Domain\obj\Debug\netcoreapp3.1\HiL_Store.Domain.pdb
